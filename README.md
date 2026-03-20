@@ -1,5 +1,5 @@
 # Data-Migration-Project
-Monolithic SQL scripts
+Some of my Monolithic SQL scripts
 
 Some of these scripts have a CTE-based version which make debugging and modification a lot easier for other SQL-gurus, it also lessens the burden on the database for more complex queries.
 
